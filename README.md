@@ -15,7 +15,7 @@ A basic implementation example.
 
 ```toml
 [dependencies]
-leicester = { version = "0.0.0" }
+leicester = { version = "0.0.1" }
 ```
 
 Then, on your main.rs:

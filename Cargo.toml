@@ -6,7 +6,7 @@ keywords = ["transparently", "hijack"]
 license = "MIT/Apache-2.0"
 name = "leicester"
 readme = "README.md"
-version = "0.0.0"
+version = "0.0.1"
 
 [dependencies]
 rust-iptables = { version = "0.0.2" }
